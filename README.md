@@ -20,3 +20,20 @@ This project demonstrates the configuration of a Windows Server environment usin
 ## Documentation
 - Active-Directory-Lab-Worksheet.docx (completed tasks and screenshots)
 - Active-Directory-Lab-Instructions.docx (original assignment)
+
+## Screenshots
+
+### Active Directory Structure
+![AD](active-directory.png)
+
+### Users
+![Users](users.png)
+
+### Groups and Permissions
+![Groups](groups.png)
+
+### NTFS Permissions
+![Permissions](permissions.png)
+
+### Group Policy
+![GPO](gpo.png)
