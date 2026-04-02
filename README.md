@@ -23,17 +23,14 @@ This project demonstrates the configuration of a Windows Server environment usin
 
 ## Screenshots
 
-### Active Directory Structure
-![AD](active-directory.png)
+### Organizational Units
+![OUs](organizationalUnits.png)
 
 ### Users
-![Users](users.png)
+![Users](Users.png)
 
-### Groups and Permissions
-![Groups](groups.png)
+### Groups
+![Groups](Groups.png)
 
-### NTFS Permissions
-![Permissions](permissions.png)
-
-### Group Policy
-![GPO](gpo.png)
+### Permissions
+![Permissions](Permissions.png)
