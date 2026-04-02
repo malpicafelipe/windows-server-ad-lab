@@ -24,7 +24,7 @@ This project demonstrates the configuration of a Windows Server environment usin
 ## Screenshots
 
 ### Organizational Units
-![OUs](organizationalUnits.png)
+![OUs](organizational-Units.png)
 
 ### Users
 ![Users](Users.png)
